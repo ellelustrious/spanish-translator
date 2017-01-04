@@ -1,5 +1,5 @@
 ## Spanish translator
-Translates English words to Spanish, and vice versa.
+Translates English words to Spanish.
 
 ### Examples:
 ```java
